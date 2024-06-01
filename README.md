@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Osholarin
-- 👀 I’m interested in Python and Arduino robotics
-- 🌱 I’m currently learning python and Arduino programming
-- 💞️ I’m looking to collaborate on a seed planting robot and a music player
+- 👀 I am a python developer
+- I am also passionate maker using the arduino and raspberry pi pico platforms
 - 📫 How to reach me ibiyemifasasi@gmail.com
 
 <!---
