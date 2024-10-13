@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Osholarin
 - 👀 I am a python developer
-- I am also passionate maker using the arduino and raspberry pi pico platforms
 - 📫 How to reach me ibiyemifasasi@gmail.com
 
 <!---
