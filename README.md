@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Osholarin
-- 👀 I am a python developer
+- 👀 I am an aspiring python developer
 - 📫 How to reach me ibiyemifasasi@gmail.com
 
 <!---
